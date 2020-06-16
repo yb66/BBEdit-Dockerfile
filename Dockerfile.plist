@@ -300,6 +300,7 @@
 	<key>BBLMFileNamesToMatch</key>
 	<array>
 		<string>Dockerfile</string>
+		<string>Dockerfile.*</string>
 	</array>
 	<key>BBLMCommentLineDefault</key>
 	<string>#</string>
